@@ -45,6 +45,10 @@ Generated\ Files/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+#ignoring files
+obj/
+Properties/
+
 # NUnit
 *.VisualState.xml
 TestResult.xml
